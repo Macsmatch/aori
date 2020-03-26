@@ -7,9 +7,9 @@ La technologie que j'ai choisie est la _réalité virtuelle_, plus communément 
 ## Virtual reality
 
 Pour ce projet, je vais suivre la structure suivante :
-```markdown
 
-### Définitions
+
+### [Définitions](definitions.md)
 ### Histoire
 ### Où la trouve-t-on ?
 
@@ -18,11 +18,11 @@ Pour ce projet, je vais suivre la structure suivante :
 
 1. Numbered
 2. List
-```
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+ and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
