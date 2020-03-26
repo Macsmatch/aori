@@ -4,8 +4,7 @@ Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Pour ce projet, je vais suivre la structure suivante :
 ```markdown
 Syntax highlighted code block
 
