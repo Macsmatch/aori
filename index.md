@@ -1,27 +1,29 @@
-## Bienvenue sur mon site
+# Bienvenue sur mon site
 
 Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée à réaliser un dossier ansi qu'une synthèse documentaires sur une technologie moderne.
 
-### Markdown
+La technologie que j'ai choisie est la _réalité virtuelle_, plus communément appelée la VR (**V**irtual **R**eality).
+
+## Virtual reality
 
 Pour ce projet, je vais suivre la structure suivante :
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Définitions
+### Histoire
+### Où la trouve-t-on ?
 
-- Bulleted
-- List
+- Dans les années 2000
+- A partir des années 2010
 
 1. Numbered
 2. List
+```
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
