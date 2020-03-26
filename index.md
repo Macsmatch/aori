@@ -1,8 +1,6 @@
 ## Bienvenue sur mon site
 
-You can use the [editor on GitHub](https://github.com/Macsmatch/aori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée à réaliser un dossier ansi qu'une synthèse documentaires sur une technologie moderne.
 
 ### Markdown
 
