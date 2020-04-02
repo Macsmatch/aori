@@ -19,5 +19,3 @@ Motion Capture :
 - [**magnétique**](magnetique.md)
 - [**mécanique**](mecanique.md)
 
-
-![Illustration](Images/what-is-motion-capture-1024x683.jpg)
