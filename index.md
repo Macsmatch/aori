@@ -12,7 +12,7 @@ Nous allons aborder les points suivants :
 
 ### [Définitions](definitions.md)
 ### [Historique](histoire.md)
-### [Les différents types de Motion Capture]()
+### [Les différents types de Motion Capture](typesmotioncapture.md)
 Motion Capture : 
 - [**optique**](optique.md)
 - [**magnétique**](magnetique.md)
