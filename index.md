@@ -17,9 +17,5 @@ La technologie que j'ai choisie est la _Motion Capture_. Cette technologie, que 
 ### [Historique](histoire.md)
 
 ### [Les différents types de Motion Capture](typesmotioncapture.md)
-Motion Capture : 
-- [**optique**](optique.md)
-- [**magnétique**](magnetique.md)
-- [**mécanique**](mecanique.md)
 
 ### [Quelques exemples de films et jeux vidéos](filmsjeuxvideo.md)
