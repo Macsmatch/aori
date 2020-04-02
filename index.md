@@ -2,9 +2,9 @@
 
 Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée à réaliser un dossier ansi qu'une synthèse documentaires sur une technologie moderne.
 
-La technologie que j'ai choisie est la _réalité virtuelle_, plus communément appelée la VR (**V**irtual **R**eality).
+La technologie que j'ai choisie est la _Motion Capture_. C'est une technologie que l'on utilise principalement dans le cinéma et pour la réalisation de jeux vidéo.
 
-## Virtual reality
+## Motion Capture
 
 Pour ce projet, je vais suivre la structure suivante :
 
