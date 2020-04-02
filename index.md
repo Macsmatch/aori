@@ -21,6 +21,6 @@ Motion Capture :
 
 
 
-![Illustration](what-is-motion-capture-1024x683.jpg)
+![Illustration](Images/what-is-motion-capture-1024x683.jpg)
 
 
