@@ -2,25 +2,23 @@
 
 Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée à réaliser un dossier ansi qu'une synthèse documentaires sur une technologie moderne.
 
-La technologie que j'ai choisie est la _Motion Capture_. C'est une technologie que l'on utilise principalement dans le cinéma et pour la réalisation de jeux vidéo.
+La technologie que j'ai choisie est la _Motion Capture_. C'est une technologie que l'on utilise principalement dans le cinéma et dans la réalisation de jeux vidéo.
 
-## Motion Capture
+## La Motion Capture
 
-Pour ce projet, je vais suivre la structure suivante :
-
+Nous allons aborder les points suivants :
 
 ### [Définitions](definitions.md)
-### Histoire
-### Où la trouve-t-on ?
-
-- Dans les années 2000
-- A partir des années 2010
-
-1. Numbered
-2. List
+### [Historique](histoire.md)
+### Les différents types de Motion Capture
+Il existe différents systèmes de Motion Capture : 
+- [**optique**](optique.md)
+- [**magnétique**](magnetique.md)
+- [**mécanique**](mecanique.md)
 
 
-**Bold** and _Italic_ and `Code` text
+
+_Italic_ and `Code` text
 
 ![La Motion Capture ?](what-is-motion-capture-1024x683.jpg)
 
