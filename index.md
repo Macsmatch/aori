@@ -3,7 +3,7 @@
 
 # Bienvenue sur mon site
 
-Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée à réaliser un dossier ansi qu'une synthèse documentaires sur une technologie moderne.
+Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée à réaliser un dossier ainsi qu'une synthèse documentaires sur une technologie moderne.
 
 La technologie que j'ai choisie est la _Motion Capture_. Cette technologie, que l'on appelle aussi en français la _Capture du mouvement_, est utilisée principalement dans le cinéma et dans la réalisation de jeux vidéo.
 
