@@ -1,4 +1,4 @@
-![Illustration](what-is-motion-capture-1024x683.jpg)
+
 
 # Bienvenue sur mon site
 
@@ -17,3 +17,10 @@ Motion Capture :
 - [**optique**](optique.md)
 - [**magnétique**](magnetique.md)
 - [**mécanique**](mecanique.md)
+
+
+
+
+![Illustration](what-is-motion-capture-1024x683.jpg)
+
+
