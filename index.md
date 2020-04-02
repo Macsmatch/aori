@@ -21,10 +21,3 @@ Motion Capture :
 
 
 ![Illustration](Images/what-is-motion-capture-1024x683.jpg)
-
-
-
-\\ 
-
-Camille Coumans - 1BD - HE2B IESSID 
-2020
