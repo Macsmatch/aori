@@ -22,7 +22,7 @@ Pour ce projet, je vais suivre la structure suivante :
 
 **Bold** and _Italic_ and `Code` text
 
-![Fon d'écran pokémon](pokemon-wallpaper-fond-ecran-8-600x1067.jpg)
+![La Motion Capture ?](what-is-motion-capture-1024x683.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
