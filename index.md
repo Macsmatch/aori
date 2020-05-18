@@ -19,5 +19,3 @@ La technologie que j'ai choisie est la _Motion Capture_. Cette technologie, que 
 ### [Les différents types de Motion Capture](typesmotioncapture.md)
 
 ### [Filmographie](filmsjeuxvideo.md)
-#### [Films entièrement réalisés avec un de ces procédés]()
-#### [Films partiellement réalisés avec un de ces procédés]()
