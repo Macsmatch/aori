@@ -1,4 +1,12 @@
-# Les différents types de Motion Capture
+# Fonctionnement
+
+[https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
+
+## Comment fait-on la Motion Capture
+
+
+
+## Les différents types de Motion Capture
 
 [https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
