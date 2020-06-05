@@ -4,11 +4,22 @@
 
 ## Comment fait-on la Motion Capture
 
+![Comment faire de la motion capture : capture d'écran](Images/commentfaire1.PNG)
+
+Il y a 5 étapes à la Motion Capture : 
+
+1. Studio set-up
+
+2. calibration de la zone de capture
+
+3. capture de mouvement
+
+4. nettoyage des données
+
+5. traitemant des données
 
 
 ## Les différents types de Motion Capture
-
-[https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
 Il existe différents types de capture de mouvement. Elle peut être :
 - **optique**
