@@ -1,6 +1,6 @@
 # Fonctionnement
 
-[https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
+[A-RENAUD. Tout savoir sur la motion capture, une technologie en plein boom ! Dans : Réalité-Virtuelle.com [en ligne]. 17 janvier 2016. [Consulté le 5 juin 2020]. Disponible à l’adresse : https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
 ## Comment fait-on la Motion Capture
 
