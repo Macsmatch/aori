@@ -9,6 +9,7 @@ Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée 
 
 La technologie que j'ai choisie est la _Motion Capture_. Cette technologie, que l'on appelle aussi en français la _Capture du mouvement_, est utilisée principalement dans le cinéma et dans la réalisation de jeux vidéo.
 
+Ce dossier réunira toutes les ressources qu'il est intéressant de considérer pour en savoir plus sur cette technologie.
 
 ## Dans ce dossier documentaire, j'aimerais aborder les points suivants :
 
