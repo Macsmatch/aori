@@ -8,11 +8,11 @@
 
 Il y a 5 étapes à la Motion Capture : 
 
-1. Studio set-up
-2. Calibration de la zone de capture
-3. Capture de mouvement
-4. Nettoyage des données
-5. Traitemant des données
+### Studio set-up
+### Calibration de la zone de capture
+### Capture de mouvement
+### Nettoyage des données
+### Traitemant des données
 
 
 ## Les différents types de Motion Capture
