@@ -17,4 +17,4 @@ Il existe différents types de capture de mouvement. Elle peut être :
 
 - **mécanique**
 
-![La capture mécanique : capture d'écran](Images/capturemecanique)
+![La capture mécanique : capture d'écran](Images/capturemecanique.PNG)
