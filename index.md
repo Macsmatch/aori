@@ -17,6 +17,6 @@ Ce dossier réunira toutes les ressources qu'il est intéressant de considérer 
 
 ### [Historique](histoire.md)
 
-### [Les différents types de Motion Capture](typesmotioncapture.md)
+### [Fonctionnement](fonctionnement.md)
 
 ### [Filmographie](filmsjeuxvideo.md)
