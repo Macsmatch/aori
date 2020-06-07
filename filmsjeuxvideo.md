@@ -53,8 +53,7 @@
 
 [source](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=16)
 
-![Commentaire sur le rôle de Benedict Cumberbatch dans le rôle de Smaug dans le film "Le Hobbit : La désolation de Smaug
-"](Images/smaug1.PNG)
+![Commentaire sur le rôle de Benedict Cumberbatch dans le rôle de Smaug dans le film "Le Hobbit : La désolation de Smaug" : capture d'écran](Images/smaug1.PNG)
 
 ### La Planète des singes
 
@@ -64,7 +63,7 @@
 
 [source](https://www.lefigaro.fr/cinema/2017/07/11/03002-20170711ARTFIG00107--la-planetes-de-singes-la-suprematie-des-effets-speciaux.php)
 
-![Commentaire sur le film "La Planète des singes"](Images/singe1.PNG)
+![Commentaire sur le film "La Planète des singes" : capture d'écran](Images/singe1.PNG)
 
 ### Alita : Battle Angel
 
@@ -78,7 +77,7 @@
 
 ## Jeux vidéos
 
-### [Until Dawn]
+### Until Dawn
 
 [vidéo](https://www.youtube.com/watch?v=CEMFbhCf4-o)
 
@@ -89,3 +88,11 @@
 [source](https://simonae.fr/sciences-culture/jeux-video/until-dawn-analyse-transmediale/)
 
 ![Commentaire sur le jeu vidéo "Until Dawn" : capture d'écran](Images/untildawn1.PNG)
+
+### The Last of Us
+
+[![Image découpée en quatre reprenant 3 plans de vue réels des acteurs et 1 image de la retranscription de la motion capture en jeu vidéo](Images/lastofus.jpg)](https://www.youtube.com/watch?v=H2fNUeQ6L6s)
+
+[source](https://www.20minutes.fr/high-tech/1175215-20130617-20130617-the-last-of-us-road-trip-emouvant-ruines-lhumanite)
+
+![Commentaire sur le jeu "The Last of Us" : capture d'écran](Images/lastofus1.PNG)
