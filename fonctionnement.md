@@ -12,13 +12,13 @@
 
 [![Comment faire de la motion capture : capture d'écran](Images/commentfaire1.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
-### 
+### Méthodes
 
 [![Motion capture](Images/commentfaire2.PNG)](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 
 [![Motion capture](Images/commentfaire3.PNG)](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 
-### 
+### Etapes de réalisation
 
 1. Studio set-up
 
