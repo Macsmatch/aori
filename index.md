@@ -19,9 +19,6 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 
 ### [Historique](histoire.md)
 - Les différentes évolutions de la Motion Capture
-Rotoscopie
-Performance capture
-Capture du mouvement
 
 ### [Fonctionnement](fonctionnement.md)
 - Comment fait-on de la Motion Capture ? Quelles sont les étapes à suivre ?
