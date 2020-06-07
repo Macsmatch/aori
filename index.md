@@ -18,19 +18,19 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 ### [Définitions](definitions.md)
 
 ### [Historique](histoire.md)
-#### Les différentes évolutions de la Motion Capture
-- Rotoscopie
-- Performance capture
-- Capture du mouvement
+- Les différentes évolutions de la Motion Capture
+Rotoscopie
+Performance capture
+Capture du mouvement
 
 ### [Fonctionnement](fonctionnement.md)
-#### Comment fait-on de la Motion Capture ? Quelles sont les étapes à suivre ?
-#### Les différents types de Motion Capture
-#### L'équipement nécessaire
+- Comment fait-on de la Motion Capture ? Quelles sont les étapes à suivre ?
+- Les différents types de Motion Capture
+- L'équipement nécessaire
 
 ### [Filmographie](filmsjeuxvideo.md)
-#### Films d'animation
-#### Films 
-#### Jeux vidéos
+- Films d'animation
+- Films 
+- Jeux vidéos
 
 ### [Andy Serkis : l'égérie de la *Motion Capture*](andyserkis.md)
