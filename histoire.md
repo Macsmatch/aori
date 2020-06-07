@@ -7,6 +7,8 @@
 
 - [KACIMI IAMS-MIGUEL, Oriana. Motion Capture et Rendu Expressif. 2014 2013, p. 121](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
+- [A. RENAUD. Tout savoir sur la motion capture, une technologie en plein boom ! Dans : Réalité-Virtuelle.com [en ligne]. 17 janvier 2016. [Consulté le 5 juin 2020]. Disponible à l’adresse : https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
+
 ## Présentation générale
 
 [![Histoire de la motion capture racontée par KDCB : capture d'écran 1](Images/histoire1.PNG)](https://kdcbtpe.wordpress.com/history/)
@@ -35,4 +37,10 @@
 
 ## La motion capture
 
+[![Historique de la motion capture : capture d'écran](Images/lamotioncapture1.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
+
+[![Historique de la motion capture : capture d'écran](Images/lamotioncapture2.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
+
 ## La performance capture
+
+[![Explication de la perfomance capture : capture d'écran](Images/performancecapture1.PNG)](https://www.retourverslecinema.com/performance-capture-entre-realite-et-virtuel/)
