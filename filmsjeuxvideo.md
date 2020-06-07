@@ -56,13 +56,15 @@
 ![Commentaire sur le rôle de Benedict Cumberbatch dans le rôle de Smaug dans le film "Le Hobbit : La désolation de Smaug
 "](Images/smaug1.PNG)
 
-### La planète des singes
+### La Planète des singes
 
 ![Planète des singes : motion capture](Images/La-Planete-des-singes-Andy-Serkis-l-homme-derriere-le-chimpanze.jpg)
 
 [vidéo](https://www.youtube.com/watch?v=j8WPI3zkxkw)
 
-[source]()
+[source](https://www.lefigaro.fr/cinema/2017/07/11/03002-20170711ARTFIG00107--la-planetes-de-singes-la-suprematie-des-effets-speciaux.php)
+
+![Commentaire sur le film "La Planète des singes"](Images/singe1.PNG)
 
 ### Alita : Battle Angel
 
@@ -70,17 +72,20 @@
 
 [vidéo](https://www.youtube.com/watch?v=ETs8B2axTcw)
 
-[source]()
+[source](http://www.allocine.fr/article/fichearticle_gen_carticle=18678836.html)
 
+![Commentaire sur le film "Alita : Battle Angel" : capture d'écran](Images/alita1.PNG)
 
 ## Jeux vidéos
 
-### [Until down]
+### [Until Dawn]
 
 [vidéo](https://www.youtube.com/watch?v=CEMFbhCf4-o)
 
 ![Until Down : personnages](Images/fb_efhqfo6.png)
 
-[source]()
-
 ![Until down : motion capture](Images/maxresdefault.jpg)
+
+[source](https://simonae.fr/sciences-culture/jeux-video/until-dawn-analyse-transmediale/)
+
+![Commentaire sur le jeu vidéo "Until Dawn" : capture d'écran](Images/untildawn1.PNG)
