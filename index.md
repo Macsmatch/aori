@@ -16,13 +16,13 @@ Ce dossier réunira toutes les ressources qu'il est intéressant de considérer 
 ### [Définitions](definitions.md)
 
 ### [Historique](histoire.md)
-#### Les différentes évolutions de la *Motion Capture*
+#### Les différentes évolutions de la Motion Capture
 - Stétographe
 - Performance capture
-- Je sais pas quoi
+- Capture du mouvement
 
 ### [Fonctionnement](fonctionnement.md)
-#### Comment fait-on la Motion Capture ? Quelles sont les étapes à suivre pour faire de la *Motion Capture* ?
+#### Comment fait-on de la Motion Capture ? Quelles sont les étapes à suivre ?
 #### Les différents types de Motion Capture
 #### L'équipement nécessaire
 
