@@ -5,7 +5,7 @@
 
 ### Le Pôle express
 
-![Tom Hanks, Le Pôle express : motion capture](Images/f7a2a4_0eb58c93760e4eaa9a50bd8510767a51.webp | width=100)
+![Tom Hanks, Le Pôle express : motion capture](Images/f7a2a4_0eb58c93760e4eaa9a50bd8510767a51.webp)
 
 [vidéo](https://www.youtube.com/watch?v=1mN4VAwhrk4)
 
