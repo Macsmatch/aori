@@ -17,9 +17,9 @@ Ce dossier réunira toutes les ressources qu'il est intéressant de considérer 
 
 ### [Historique](histoire.md)
 #### Les différentes évolutions de la *Motion Capture*
-##### Stétographe
-##### Performance capture
-##### Je sais pas quoi
+- Stétographe
+- Performance capture
+- Je sais pas quoi
 
 ### [Fonctionnement](fonctionnement.md)
 #### Comment fait-on la Motion Capture ? Quelles sont les étapes à suivre pour faire de la *Motion Capture* ?
