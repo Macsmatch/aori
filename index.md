@@ -9,14 +9,24 @@ Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée 
 
 La technologie que j'ai choisie est la _Motion Capture_. Cette technologie, que l'on appelle aussi en français la _Capture du mouvement_, est utilisée principalement dans le cinéma et dans la réalisation de jeux vidéo.
 
-Ce dossier réunira toutes les ressources qu'il est intéressant de considérer pour en savoir plus sur cette technologie.
+Ce dossier réunira toutes les ressources qu'il est intéressant de considérer pour en savoir plus sur cette technologie. Nous allons commencer par un rapide parcours des différentes défintions que l'on peut donner à cette technique graphique. Ensuite, nous en dresserons son historique, en parcourant les différentes formes qu'elle a pu prendre au fil du temps. Après cela, nous allons tenter de comprendre un peu plus en profondeur son fonctionnement, et nous intéresserons 
 
 ## Dans ce dossier documentaire, j'aimerais aborder les points suivants :
 
 ### [Définitions](definitions.md)
 
 ### [Historique](histoire.md)
+#### Les différentes évolutions de la *Motion Capture*
+##### Stétographe
+##### Performance capture
+##### Je sais pas quoi
 
 ### [Fonctionnement](fonctionnement.md)
+#### Comment fait-on la Motion Capture ? Quelles sont les étapes à suivre pour faire de la *Motion Capture* ?
+#### Les différents types de Motion Capture
+#### L'équipement nécessaire
 
 ### [Filmographie](filmsjeuxvideo.md)
+#### Films d'animation
+#### Films 
+#### Jeux vidéos
