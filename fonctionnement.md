@@ -2,7 +2,7 @@
 
 [A-RENAUD. Tout savoir sur la motion capture, une technologie en plein boom ! Dans : Réalité-Virtuelle.com [en ligne]. 17 janvier 2016. [Consulté le 5 juin 2020]. Disponible à l’adresse : https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
-## Comment fait-on la Motion Capture
+## Comment fait-on la *Motion Capture* ?
 
 ![Comment faire de la motion capture : capture d'écran](Images/commentfaire1.PNG)
 
@@ -15,7 +15,7 @@ Il y a 5 étapes à la Motion Capture :
 - Traitemant des données
 
 
-## Les différents types de Motion Capture
+## Les différents types de *Motion Capture*
 
 Il existe différents types de capture de mouvement. Elle peut être :
 - **optique**
