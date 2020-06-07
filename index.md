@@ -19,7 +19,7 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 
 ### [Historique](histoire.md)
 #### Les différentes évolutions de la Motion Capture
-- Stétographe
+- Rotoscopie
 - Performance capture
 - Capture du mouvement
 
