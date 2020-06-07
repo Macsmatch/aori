@@ -15,7 +15,7 @@
 
 ## Quelques dates et évènements importants
 
-[![Histoire de la motion capture racontée par : capture d'écran](Images/histoire44.PNG)](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
+[![Histoire de la motion capture racontée par : capture d'écran](Images/historique44.PNG.PNG)](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 
 ## La chronophotographie
 
