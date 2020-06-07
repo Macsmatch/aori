@@ -53,16 +53,16 @@ Selon cet article, on peut résumer la Motion Capture en 5 étapes :
 Il existe différents types de capture de mouvement. Elle peut être :
 - **optique**
 
-![La capture optique : capture d'écran](Images/captureoptique.PNG)
+[![La capture optique : capture d'écran](Images/captureoptique.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
 - **gyroscopique**
 
-![La capture gyroscopique : capture d'écran](Images/capturegyro.PNG)
+[![La capture gyroscopique : capture d'écran](Images/capturegyro.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
 - **magnétique**
 
-![La capture magnétique : capture d'écran](Images/capturemagnetique.PNG)
+[![La capture magnétique : capture d'écran](Images/capturemagnetique.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
 - **mécanique**
 
-![La capture mécanique : capture d'écran](Images/capturemecanique.PNG)
+[![La capture mécanique : capture d'écran](Images/capturemecanique.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
