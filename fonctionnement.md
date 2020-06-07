@@ -6,15 +6,19 @@
 
 - [BOYER, Floriane. La motion-capture, capturer le mouvement. Dans : Futura [en ligne]. 16 octobre 2018. [Consulté le 7 juin 2020]. Disponible à l’adresse : https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 
-## Comment fait-on la *Motion Capture* ?
+## Principe général et particularités
+
+### Comment ça marche ?
 
 [![Comment faire de la motion capture : capture d'écran](Images/commentfaire1.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
+
+### 
 
 [![Motion capture](Images/commentfaire2.PNG)](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 
 [![Motion capture](Images/commentfaire3.PNG)](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 
-Selon cet article, on peut résumer la Motion Capture en 5 étapes : 
+### 
 
 1. Studio set-up
 
