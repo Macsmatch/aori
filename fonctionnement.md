@@ -19,22 +19,22 @@
 
 ### Etapes de réalisation
 
-1. Studio set-up
+1. Studio set-up \
 [![Explication set-up : capture d'écran 1](Images/setup1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 [![Explication set-up : capture d'écran 2](Images/setup2.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 [![Explication set-up : capture d'écran 3](Images/setup3.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
-2. Calibration de la zone de capture
+2. Calibration de la zone de capture \
 [![Explication calibration : capture d'écran](Images/calibration1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
-3. Mise en place des markers
+3. Mise en place des markers \
 [![Explication mise en place des markers : capture d'écran](Images/miseenplacemarkers1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
-4. Capture, reconstruction de données et nettoyage
+4. Capture, reconstruction de données et nettoyage \
 [![Explication capture de mouvement et nettoyage : capture d'écran 1](Images/captureimage1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 [![Explication capture de mouvement et nettoyage : capture d'écran 2](Images/captureimage2.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
-5. Mise en place 3D : De l'acteur réel au personnage virtuel
+5. Mise en place 3D : De l'acteur réel au personnage virtuel \
 [![Explication mise en place 3D : capture d'écran 1](Images/traitement1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 [![Explication mise en place 3D : capture d'écran 2](Images/traitement2.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 [![Explication mise en place 3D : capture d'écran 3](Images/traitement3.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
