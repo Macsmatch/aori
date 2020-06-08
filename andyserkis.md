@@ -13,7 +13,7 @@ Comme vous avez certainement pu le remarquer tout au long de ce dossier, Andy Se
 
 -TÉLÉ-LOISIRS. Andy Serkis : biographie, news, photos et videos. Dans : Télé-Loisirs [en ligne]. [2019]. [Consulté le 8 juin 2020]. Disponible à l’adresse : [https://www.programme-tv.net/biographie/68877-serkis-andy/](https://www.programme-tv.net/biographie/68877-serkis-andy/)
 
-[![Biographie d'Andy Serkis du site Télé-Loisirs](Images/andyserkisbio1.PNG)](https://www.programme-tv.net/biographie/68877-serkis-andy/)
+[![Biographie d'Andy Serkis du site Télé-Loisirs](Images/andyserkisbio2.PNG)](https://www.programme-tv.net/biographie/68877-serkis-andy/)
 
 ## Quelle est son importance dans la *Motion Capture* ?
 
