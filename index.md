@@ -3,7 +3,8 @@
 
 # La Motion Capture
 
-**_Camille Coumans_** \
+**_Camille Coumans_**
+
 Dernière mise à jour : **_8 juin 2020_**
 
 ## Bienvenue sur mon site !
