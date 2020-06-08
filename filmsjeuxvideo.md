@@ -10,6 +10,8 @@
 
 - The Polar Express - 10 Behind The Scenes Facts [en ligne]. 14 décembre 2018. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=1mN4VAwhrk4](https://www.youtube.com/watch?v=1mN4VAwhrk4)
 
+[<img src="Images/capturevideo1.PNG" alt="Vidéo sur la réalisation du film le Pôle express" width="600"/>](https://www.youtube.com/watch?v=1mN4VAwhrk4)
+
 - IMBERT, Thomas. Le contrôleur du « Pôle Express » (2004): Edouard, Gollum, Chappie... : 16 personnages en motion capture. Dans : AlloCiné [en ligne]. 9 avril 2015. [Consulté le 7 juin 2020]. Disponible à l’adresse : [http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7)
 
 [<img src="Images/polexpress.PNG" alt="Commentaire sur le film Le Pôle express : capture d'écran" width="600"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7)
@@ -18,7 +20,9 @@
 
 [<img src="Images/tintin.jpg" alt="Les Aventures de Tintin : Le Secret de La Licorne : image du film où l'on peut voir Tintin et le Capitaine Haddock" width="800"/>](https://ici.radio-canada.ca/nouvelle/1146050/duo-peter-jackson-steven-spielberg-prepare-suite-aventures-tintin-cinema-film)
 
-- Making-off «Tintin», Nick Frost and Simon Pegg [en ligne]. 17 décembre 2011. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=MfOV25rkHCI](https://www.youtube.com!/watch?v=MfOV25rkHCI)
+- Making-off «Tintin», Nick Frost and Simon Pegg [en ligne]. 17 décembre 2011. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=MfOV25rkHCI](https://www.youtube.com/watch?v=MfOV25rkHCI)
+
+[<img src="Images/capturevideo2.PNG" alt="Vidéo sur la réalisation du film Les Aventures de Tintin : Le Secret de La Licorne" width="600"/>](https://www.youtube.com/watch?v=MfOV25rkHCI)
 
 - GATTEGNO, Hervé et COLOMBANI, Florence. « Les aventures de Tintin : le secret de la Licorne » - Tintin passe-t-il l’écran ? Dans : Le Point [en ligne]. 20 octobre 2011. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.lepoint.fr/cinema/les-aventures-de-tintin-le-secret-de-la-licorne-tintin-passe-t-il-l-ecran-20-10-2011-1388982_35.php](https://www.lepoint.fr/cinema/les-aventures-de-tintin-le-secret-de-la-licorne-tintin-passe-t-il-l-ecran-20-10-2011-1388982_35.php)
 
@@ -32,6 +36,8 @@
 
 - BEHIND THE SCENE - Avatar The Movie (Part 3) [en ligne]. 17 janvier 2010. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=ClXxZyf1EnY](https://www.youtube.com/watch?v=ClXxZyf1EnY)
 
+[<img src="" alt="" width="600"/>]()
+
 - DELCROIX, Olivier. La révolution «Avatar». Dans : Le Figaro.fr [en ligne]. 31 décembre 2009. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.lefigaro.fr/cinema/2009/12/31/03002-20091231ARTFIG00008-la-revolution-avatar-.php](https://www.lefigaro.fr/cinema/2009/12/31/03002-20091231ARTFIG00008-la-revolution-avatar-.php)
 
 [<img src="Images/avatar1.PNG" alt="Commentaire sur Avatar le film : capture d'écran" width="600"/>](https://www.lefigaro.fr/cinema/2009/12/31/03002-20091231ARTFIG00008-la-revolution-avatar-.php)
@@ -43,15 +49,19 @@
 - Bringing Kong to Life Part 1 - Motion Capture.mov [en ligne]. 30 avril 2010. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=4iGQvER6Tns&t=162s
 ](https://www.youtube.com/watch?v=4iGQvER6Tns&t=162s)
 
+[<img src="" alt="" width="600"/>]()
+
 - IMBERT, Thomas. « King Kong » (2005): Edouard, Gollum, Chappie... : 16 personnages en motion capture. Dans : AlloCiné [en ligne]. 9 avril 2015. [Consulté le 7 juin 2020]. Disponible à l’adresse : [http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8)
 
-[<img src="Images/kingkong.PNG" alt="Commentaire du film King Kong : capture d'écran" width="600"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8)
+[<img src="Images/kingkong1.PNG" alt="Commentaire du film King Kong : capture d'écran" width="600"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8)
 
 ### Le Hobbit : La désolation de Smaug
 
 [<img src="Images/smaug.png" alt="Image de Smaug dans le film Le Hobbit : La désolation de Smaug vs photo de l'acteur Benedict Cumberbatch : motion capture" width="800"/>](https://www.quora.com/Did-Peter-Jackson-choose-the-perfect-actor-to-do-the-voice-for-Smaug)
 
 - The Hobbit: The Desolation of Smaug | Extended Edition - Smaug MoCap | Warner Bros. Entertainment [en ligne]. 22 octobre 2014. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=W4mL-jqs9cE](https://www.youtube.com/watch?v=W4mL-jqs9cE)
+
+[<img src="" alt="" width="600"/>]()
 
 - IMBERT, Thomas. Smaug dans « Le Hobbit : la Désolation de Smaug » (2013): Edouard, Gollum, Chappie... : 16 personnages en motion capture. Dans : AlloCiné [en ligne]. 9 avril 2015. [Consulté le 7 juin 2020]. Disponible à l’adresse : [http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=16](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=16)
 
@@ -63,6 +73,8 @@
 
 - La Planète des singes : Les origines - Effets speciaux Weta [en ligne]. 20th Century Studios FR, 29 juillet 2011. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=j8WPI3zkxkw](https://www.youtube.com/watch?v=j8WPI3zkxkw)
 
+[<img src="" alt="" width="600"/>]()
+
 - TALABOT, Jean. La Planètes de singes, la suprématie des effets spéciaux. Dans : Le Figaro.fr [en ligne]. 11 juillet 2017. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.lefigaro.fr/cinema/2017/07/11/03002-20170711ARTFIG00107--la-planetes-de-singes-la-suprematie-des-effets-speciaux.php](https://www.lefigaro.fr/cinema/2017/07/11/03002-20170711ARTFIG00107--la-planetes-de-singes-la-suprematie-des-effets-speciaux.php)
 
 [<img src="Images/singe1.PNG" alt="Commentaire sur le film La Planète des singes : capture d'écran" width="600"/>](https://www.lefigaro.fr/cinema/2017/07/11/03002-20170711ARTFIG00107--la-planetes-de-singes-la-suprematie-des-effets-speciaux.php)
@@ -72,6 +84,8 @@
 [<img src="Images/alita1.jpg" alt="Alita : motion capture" width="800"/>](https://www.themarysue.com/vfx-alita-battle-angel/)
 
 - ALITA: BATTLE ANGEL | Behind the Scenes with WETA Featurette [en ligne]. 3 février 2019. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=ETs8B2axTcw](https://www.youtube.com/watch?v=ETs8B2axTcw)
+
+[<img src="" alt="" width="600"/>]()
 
 - LANGLOIS, Caroline. Alita : Battle Angel : dans les coulisses de la performance capture. Dans : AlloCiné [en ligne]. 12 février 2019. [Consulté le 7 juin 2020]. Disponible à l’adresse : [http://www.allocine.fr/article/fichearticle_gen_carticle=18678836.html](http://www.allocine.fr/article/fichearticle_gen_carticle=18678836.html)
 
@@ -85,6 +99,8 @@
 [<img src="Images/fb_efhqfo6.png" alt="Until Down : acteurs vs personnages" width="800"/>](https://hitek.fr/actualite/acteurs-personnages-until-dawn_7000)
 
 - Until DawnTM: From Stage To Screen [en ligne]. 5 septembre 2015. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=CEMFbhCf4-o](https://www.youtube.com/watch?v=CEMFbhCf4-o)
+
+[<img src="" alt="" width="600"/>]()
 
 - APOLLOMISANDRIE. Until Dawn : une analyse transmédiale. Dans : Simonae [en ligne]. 24 mars 2017. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://simonae.fr/sciences-culture/jeux-video/until-dawn-analyse-transmediale/](https://simonae.fr/sciences-culture/jeux-video/until-dawn-analyse-transmediale/)
 
