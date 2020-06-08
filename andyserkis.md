@@ -3,7 +3,7 @@
 
 # Andy Serkis : l'égérie de la *Motion Capture*
 
-Comme vous avez certainement pu le remarquer tout au long de ce dossier, Andy Serkis est un acteur qui a beaucoup d'importance dans la *Motion Capture*. Mais qui est réellement cet acteur aux multiples visages ?
+Comme vous avez certainement pu le remarquer tout au long de ce dossier, Andy Serkis est un acteur qui a beaucoup d'importance dans la *Motion Capture*. Mais qui se cache derrière cet homme aux multiples visages ?
 
 ## Qui est Andy Serkis ?
 
