@@ -3,6 +3,9 @@
 
 # La Motion Capture
 
+**_Camille Coumans_** \
+Dernière mise à jour : **_8 juin 2020_**
+
 ## Bienvenue sur mon site !
 
 Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée à réaliser un dossier ainsi qu'une synthèse documentaires sur une technologie moderne.
