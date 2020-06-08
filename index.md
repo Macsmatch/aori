@@ -35,6 +35,7 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 - Comment ça marche ?
 - Méthodes
 - Etapes de réalisation
+
 #### Les différents types de Motion Capture
 - optique
 - gyroscopique
