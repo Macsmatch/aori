@@ -3,36 +3,32 @@
 
 ## Films d'animation
 
-### Le Pôle express
 
 ![Tom Hanks, Le Pôle express : motion capture](Images/f7a2a4_0eb58c93760e4eaa9a50bd8510767a51.webp)
+### Le Pôle express
 
-[vidéo](https://www.youtube.com/watch?v=1mN4VAwhrk4)
+- [vidéo](https://www.youtube.com/watch?v=1mN4VAwhrk4)
 
-[source](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7)
-
+- [source](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7)
 <img src="Images/polexpress.PNG" alt="Commentaire sur le film Le Pôle express : capture d'écran" width="500"/>
 
+![Les Aventures de Tintin : Le Secret de La Licorne : image du film où l'on peut voir Tintin et le Capitaine Haddock](Images/tintin.jpg)
 ### Les Aventures de Tintin : Le Secret de La Licorne
 
-![Les Aventures de Tintin : Le Secret de La Licorne : image du film où l'on peut voir Tintin et le Capitaine Haddock](Images/tintin.jpg)
+- [vidéo](https://www.youtube.com/watch?v=MfOV25rkHCI)
 
-[vidéo](https://www.youtube.com/watch?v=MfOV25rkHCI)
-
-[source](https://www.lepoint.fr/cinema/les-aventures-de-tintin-le-secret-de-la-licorne-tintin-passe-t-il-l-ecran-20-10-2011-1388982_35.php)
-
+- [source](https://www.lepoint.fr/cinema/les-aventures-de-tintin-le-secret-de-la-licorne-tintin-passe-t-il-l-ecran-20-10-2011-1388982_35.php)
 ![Commentaire sur le film "Les aventures de Tintin : le secret de la Licorne" : capture d'écrande](Images/tintin1.PNG)
+
 
 ## Films
 
-### Avatar
-
 ![Avatar : motion capture](Images/6291.jpg)
+### Avatar
 
 [vidéo](https://www.youtube.com/watch?v=ClXxZyf1EnY)
 
 [source](https://www.lefigaro.fr/cinema/2009/12/31/03002-20091231ARTFIG00008-la-revolution-avatar-.php)
-
 ![Commentaire sur "Avatar" le film : capture d'écran](Images/avatar1.PNG)
 
 ### King Kong
