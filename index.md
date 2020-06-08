@@ -49,5 +49,5 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 
 ### [Andy Serkis : l'égérie de la *Motion Capture*](andyserkis.md)
 #### Qui est Andy Serkis ?
-#### Quelle est son importance dans la Motion Capture ?
+#### Quelle est son importance dans le développement de la Motion Capture ?
 #### Quelle est son point de vue sur la Motion Capture ?
