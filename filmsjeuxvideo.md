@@ -11,7 +11,8 @@
 - [vidéo](https://www.youtube.com/watch?v=1mN4VAwhrk4)
 
 - [source](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7)
-<img src="Images/polexpress.PNG" alt="Commentaire sur le film Le Pôle express : capture d'écran" width="600"/>
+
+[<img src="Images/polexpress.PNG" alt="Commentaire sur le film Le Pôle express : capture d'écran" width="600"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7)
 
 ### Les Aventures de Tintin : Le Secret de La Licorne
 
@@ -21,7 +22,7 @@
 
 - [source](https://www.lepoint.fr/cinema/les-aventures-de-tintin-le-secret-de-la-licorne-tintin-passe-t-il-l-ecran-20-10-2011-1388982_35.php)
 
-<img src="Images/tintin1.PNG" alt="Commentaire sur le film Les aventures de Tintin : le secret de la Licorne : capture d'écran" width="600"/>
+[<img src="Images/tintin1.PNG" alt="Commentaire sur le film Les aventures de Tintin : le secret de la Licorne : capture d'écran" width="600"/>](https://www.lepoint.fr/cinema/les-aventures-de-tintin-le-secret-de-la-licorne-tintin-passe-t-il-l-ecran-20-10-2011-1388982_35.php)
 
 ## Films
 
@@ -33,7 +34,7 @@
 
 - [source](https://www.lefigaro.fr/cinema/2009/12/31/03002-20091231ARTFIG00008-la-revolution-avatar-.php)
 
-<img src="Images/avatar1.PNG" alt="Commentaire sur Avatar le film : capture d'écran" width="600"/>
+[<img src="Images/avatar1.PNG" alt="Commentaire sur Avatar le film : capture d'écran" width="600"/>](https://www.lefigaro.fr/cinema/2009/12/31/03002-20091231ARTFIG00008-la-revolution-avatar-.php)
 
 ### King Kong
 
@@ -43,7 +44,7 @@
 
 - [source](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8)
 
-<img src="Images/kingkong.PNG" alt="Commentaire du film King Kong : capture d'écran" width="600"/>
+[<img src="Images/kingkong.PNG" alt="Commentaire du film King Kong : capture d'écran" width="600"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8)
 
 ### Le Hobbit : La désolation de Smaug
 
@@ -53,7 +54,7 @@
 
 - [source](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=16)
 
-<img src="Images/smaug1.PNG" alt="Commentaire sur le rôle de Benedict Cumberbatch dans le rôle de Smaug dans le film Le Hobbit : La désolation de Smaug : capture d'écran" width="600"/>
+[<img src="Images/smaug1.PNG" alt="Commentaire sur le rôle de Benedict Cumberbatch dans le rôle de Smaug dans le film Le Hobbit : La désolation de Smaug : capture d'écran" width="600"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=16)
 
 ### La Planète des singes
 
@@ -63,7 +64,7 @@
 
 - [source](https://www.lefigaro.fr/cinema/2017/07/11/03002-20170711ARTFIG00107--la-planetes-de-singes-la-suprematie-des-effets-speciaux.php)
 
-<img src="Images/singe1.PNG" alt="Commentaire sur le film La Planète des singes : capture d'écran" width="600"/>
+[<img src="Images/singe1.PNG" alt="Commentaire sur le film La Planète des singes : capture d'écran" width="600"/>](https://www.lefigaro.fr/cinema/2017/07/11/03002-20170711ARTFIG00107--la-planetes-de-singes-la-suprematie-des-effets-speciaux.php)
 
 ### Alita : Battle Angel
 
@@ -73,7 +74,7 @@
 
 - [source](http://www.allocine.fr/article/fichearticle_gen_carticle=18678836.html)
 
-<img src="Images/alita1.PNG" alt="Commentaire sur le film Alita : Battle Angel : capture d'écran" width="600"/>
+[<img src="Images/alita1.PNG" alt="Commentaire sur le film Alita : Battle Angel : capture d'écran" width="600"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18678836.html)
 
 
 ## Jeux vidéos
@@ -86,7 +87,7 @@
 
 - [source](https://simonae.fr/sciences-culture/jeux-video/until-dawn-analyse-transmediale/)
 
-<img src="Images/untildawn1.PNG" alt="Commentaire sur le jeu vidéo Until Dawn : capture d'écran" width="600"/>
+[<img src="Images/untildawn1.PNG" alt="Commentaire sur le jeu vidéo Until Dawn : capture d'écran" width="600"/>](https://simonae.fr/sciences-culture/jeux-video/until-dawn-analyse-transmediale/)
 
 ### The Last of Us
 
@@ -94,4 +95,4 @@
 
 - [source](https://www.20minutes.fr/high-tech/1175215-20130617-20130617-the-last-of-us-road-trip-emouvant-ruines-lhumanite)
 
-<img src="Images/lastofus1.PNG" alt="Commentaire sur le jeu The Last of Us : capture d'écran" width="600"/>
+[<img src="Images/lastofus1.PNG" alt="Commentaire sur le jeu The Last of Us : capture d'écran" width="600"/>](https://www.20minutes.fr/high-tech/1175215-20130617-20130617-the-last-of-us-road-trip-emouvant-ruines-lhumanite)
