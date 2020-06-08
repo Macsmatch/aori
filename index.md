@@ -16,18 +16,30 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 ## Dans ce dossier documentaire, j'aimerais aborder les points suivants :
 
 ### [Définitions](definitions.md)
+- Définition du Larousse
+- Définition du GameArt
+- Définition de l'office québécois de la langue française
+- Définition du groupe KDCB
 
 ### [Historique](histoire.md)
-- Présentation générale
-- Quelques dates et évènements importants
+#### Présentation générale
+#### Quelques dates et évènements importants
+#### Evolution à travers le temps
 - La chronophotographie
 - La rotoscopie
 - La motion capture
 - La performance capture
 
 ### [Fonctionnement](fonctionnement.md)
-- Principe général et particularités
-- Les différents types de Motion Capture
+#### Principe général et particularités
+- Comment ça marche ?
+- Méthodes
+- Etapes de réalisation
+#### Les différents types de Motion Capture
+- optique
+- gyroscopique
+- magnétique
+- mécanique
 
 ### [Filmographie](filmsjeuxvideo.md)
 - Films d'animation
