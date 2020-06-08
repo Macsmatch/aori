@@ -58,13 +58,16 @@
 
 [<img src="Images/smaug.png" alt="Image de Smaug dans le film Le Hobbit : La désolation de Smaug vs photo de l'acteur Benedict Cumberbatch : motion capture" width="800"/>](https://www.quora.com/Did-Peter-Jackson-choose-the-perfect-actor-to-do-the-voice-for-Smaug)
 
+
 - The Hobbit: The Desolation of Smaug | Extended Edition - Smaug MoCap | Warner Bros. Entertainment [en ligne]. 22 octobre 2014. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=W4mL-jqs9cE](https://www.youtube.com/watch?v=W4mL-jqs9cE)
 
 [<img src="Images/capturevideo5.PNG" alt="Vidéo sur la réalisation du film Le Hobbit : La désolation de Smaug" width="500"/>](https://www.youtube.com/watch?v=W4mL-jqs9cE)
 
+
 - IMBERT, Thomas. Smaug dans « Le Hobbit : la Désolation de Smaug » (2013): Edouard, Gollum, Chappie... : 16 personnages en motion capture. Dans : AlloCiné [en ligne]. 9 avril 2015. [Consulté le 7 juin 2020]. Disponible à l’adresse : [http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=16](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=16)
 
 [<img src="Images/smaug1.PNG" alt="Commentaire sur le rôle de Benedict Cumberbatch dans le rôle de Smaug dans le film Le Hobbit : La désolation de Smaug : capture d'écran" width="700"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=16)
+
 
 ### La Planète des singes
 
@@ -82,9 +85,11 @@
 
 [<img src="Images/alita1.jpg" alt="Alita : motion capture" width="800"/>](https://www.themarysue.com/vfx-alita-battle-angel/)
 
+
 - ALITA: BATTLE ANGEL | Behind the Scenes with WETA Featurette [en ligne]. 3 février 2019. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=ETs8B2axTcw](https://www.youtube.com/watch?v=ETs8B2axTcw)
 
 [<img src="Images/capturevideo7.PNG" alt="Vidéo sur la réalisation du film Alita : Battle Angel" width="500"/>](https://www.youtube.com/watch?v=ETs8B2axTcw)
+
 
 - LANGLOIS, Caroline. Alita : Battle Angel : dans les coulisses de la performance capture. Dans : AlloCiné [en ligne]. 12 février 2019. [Consulté le 7 juin 2020]. Disponible à l’adresse : [http://www.allocine.fr/article/fichearticle_gen_carticle=18678836.html](http://www.allocine.fr/article/fichearticle_gen_carticle=18678836.html)
 
