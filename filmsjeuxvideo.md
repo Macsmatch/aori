@@ -11,8 +11,7 @@
 - [vidéo](https://www.youtube.com/watch?v=1mN4VAwhrk4)
 
 - [source](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7)
-
-<img src="Images/polexpress.PNG" alt="Commentaire sur le film Le Pôle express : capture d'écran" width="500"/>
+<img src="Images/polexpress.PNG" alt="Commentaire sur le film Le Pôle express : capture d'écran" width="650"/>
 
 ### Les Aventures de Tintin : Le Secret de La Licorne
 
@@ -22,7 +21,7 @@
 
 - [source](https://www.lepoint.fr/cinema/les-aventures-de-tintin-le-secret-de-la-licorne-tintin-passe-t-il-l-ecran-20-10-2011-1388982_35.php)
 
-![Commentaire sur le film "Les aventures de Tintin : le secret de la Licorne" : capture d'écrande](Images/tintin1.PNG)
+![Commentaire sur le film "Les aventures de Tintin : le secret de la Licorne" : capture d'écran](Images/tintin1.PNG)
 
 
 ## Films
