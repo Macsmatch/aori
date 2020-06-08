@@ -3,13 +3,17 @@
 
 # Andy Serkis : l'égérie de la *Motion Capture*
 
-Comme vous avez certainement pu le remarquer tout au long de ce dossier, Andy Serkis est un acteur qui a beaucoup d'importance dans la *Motion Capture*.
-
-**Mais qui est-il au juste ?**
+Comme vous avez certainement pu le remarquer tout au long de ce dossier, Andy Serkis est un acteur qui a beaucoup d'importance dans la *Motion Capture*. Mais qui est réellement cet acteur aux multiples visages ?
 
 ## Qui est Andy Serkis ?
 
+- LA RÉDACTION. Andy Serkis : biographie courte, dates, citations. Dans : L’Internaute [en ligne]. 6 février 2019. [Consulté le 8 juin 2020]. Disponible à l’adresse : [https://www.linternaute.fr/cinema/biographie/1774578-andy-serkis-biographie-courte-dates-citations/](https://www.linternaute.fr/cinema/biographie/1774578-andy-serkis-biographie-courte-dates-citations/)
 
+[![Biographie d'Andy Serkis du site L'Iternaute : capture d'écran](Images/andyserkisbio1.PNG)](https://www.linternaute.fr/cinema/biographie/1774578-andy-serkis-biographie-courte-dates-citations/)
+
+-TÉLÉ-LOISIRS. Andy Serkis : biographie, news, photos et videos. Dans : Télé-Loisirs [en ligne]. [2019]. [Consulté le 8 juin 2020]. Disponible à l’adresse : [https://www.programme-tv.net/biographie/68877-serkis-andy/](https://www.programme-tv.net/biographie/68877-serkis-andy/)
+
+[![Biographie d'Andy Serkis du site Télé-Loisirs](Images/andyserkisbio1.PNG)](https://www.programme-tv.net/biographie/68877-serkis-andy/)
 
 ## Quelle est son importance dans la *Motion Capture* ?
 
