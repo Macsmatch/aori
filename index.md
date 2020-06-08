@@ -43,9 +43,9 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 - mécanique
 
 ### [Filmographie](filmsjeuxvideo.md)
-- Films d'animation
-- Films 
-- Jeux vidéos
+#### Films d'animation
+#### Films 
+#### Jeux vidéos
 
 ### [Andy Serkis : l'égérie de la *Motion Capture*](andyserkis.md)
 #### Qui est Andy Serkis ?
