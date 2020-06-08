@@ -18,12 +18,16 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 ### [Définitions](definitions.md)
 
 ### [Historique](histoire.md)
-- Les différentes évolutions de la Motion Capture
+- Présentation générale
+- Quelques dates et évènements importants
+- La chronophotographie
+- La rotoscopie
+- La motion capture
+- La performance capture
 
 ### [Fonctionnement](fonctionnement.md)
-- Comment fait-on de la Motion Capture ? Quelles sont les étapes à suivre ?
+- Principe général et particularités
 - Les différents types de Motion Capture
-- L'équipement nécessaire
 
 ### [Filmographie](filmsjeuxvideo.md)
 - Films d'animation
