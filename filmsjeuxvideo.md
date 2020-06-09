@@ -40,7 +40,7 @@
 
 - THECIVICR. « BEHIND THE SCENE - Avatar the movie (part 3) » [en ligne]. Dans Google. *Youtube* : publié le 17 janvier 2010. [Consulté le 7 juin 2020]. 5 min 22 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=ClXxZyf1EnY](https://www.youtube.com/watch?v=ClXxZyf1EnY)
 
-[<img src="Images/capturevideo3.PNG" alt="Vidéo sur la réalisation du film Avatar" width="600"/>](https://www.youtube.com/watch?v=ClXxZyf1EnY)
+[<img src="Images/capturevideo3.PNG" alt="Vidéo sur la réalisation du film Avatar" width="700"/>](https://www.youtube.com/watch?v=ClXxZyf1EnY)
 
 - DELCROIX, Olivier. « La révolution «Avatar» » [en ligne]. Dans : *Le Figaro.fr*. 31 décembre 2009. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.lefigaro.fr/cinema/2009/12/31/03002-20091231ARTFIG00008-la-revolution-avatar-.php](https://www.lefigaro.fr/cinema/2009/12/31/03002-20091231ARTFIG00008-la-revolution-avatar-.php)
 
