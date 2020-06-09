@@ -1,6 +1,6 @@
 # La Motion Capture
 
-Auteur : **_Camille Coumans_** | Dernière mise à jour : **_8 juin 2020_**
+Auteur : **_Camille Coumans_** | Dernière mise à jour : **_9 juin 2020_**
 
 ## Bienvenue sur mon site !
 
