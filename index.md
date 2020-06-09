@@ -46,12 +46,12 @@ _Je vous souhaite une bonne lecture !_
 ### [Filmographie](filmsjeuxvideo.md)
 #### Films d'animation
 - Le Pôle express
-- Les Aventures de Tintin : le secret de la Licorne
+- Les Aventures de Tintin : Le Secret de La Licorne
 #### Films 
 - King Kong
 - Avatar
-- La Planète des singes : les origines
-- Le Hobbit : la désolation de Smaug 
+- La Planète des singes : Les Origines
+- Le Hobbit : La désolation de Smaug 
 - Alita : Battle Angel
 #### Jeux vidéos
 - The Last of Us
