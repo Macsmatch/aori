@@ -5,8 +5,8 @@
 ## Présentation générale
 - CABANNES, Léo. Histoire de la Motion Capture. Dans : KDCB  - Motion Capture [en ligne]. 16 janvier 2013. [Consulté le 5 juin 2020]. Disponible à l’adresse : [https://kdcbtpe.wordpress.com/history/](https://kdcbtpe.wordpress.com/history/)
 
-[![Histoire de la motion capture racontée par KDCB : capture d'écran 1](Images/histoire1.PNG)](https://kdcbtpe.wordpress.com/history/)
-[![Histoire de la motion capture racontée par KDCB : capture d'écran 2](Images/histoire2.PNG)](https://kdcbtpe.wordpress.com/history/)
+[![Histoire de la motion capture racontée par KDCB : capture d'écran 1](Images/histoire1.1.PNG)](https://kdcbtpe.wordpress.com/history/)
+[![Histoire de la motion capture racontée par KDCB : capture d'écran 2](Images/histoire2.2.PNG)](https://kdcbtpe.wordpress.com/history/)
 
 ## Quelques dates et évènements importants
 
