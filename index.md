@@ -4,9 +4,11 @@
 [<img src="Images/arton50811.jpg" alt="Gros plan sur Neytiri, héroïne du film Avatar" width="900"/>](https://www.media-division.com/the-making-of-avatar-some-juicy-details/)
 _NICULESCU, Armand. « The making of Avatar - some juicy details » [en ligne]. Dans : *Media Division*. 2010. [Consulté le 9 juin 2020]. Disponible à l’adresse : [https://www.media-division.com/the-making-of-avatar-some-juicy-details/](https://www.media-division.com/the-making-of-avatar-some-juicy-details/)_
 
-**_Camille Coumans_**
 
-Dernière mise à jour : **_9 juin 2020_**
+*Dernière mise à jour* : **9 juin 2020**
+
+*Auteur* : **Camille Coumans**
+
 
 ## Bienvenue sur mon site !
 
