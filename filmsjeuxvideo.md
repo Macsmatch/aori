@@ -1,4 +1,4 @@
-# Quelques exemples de films et jeux vidéos utilisant la Motion Capture
+# Quelques exemples de films et jeux vidéo utilisant la Motion Capture
 
 
 ## Films d'animation
