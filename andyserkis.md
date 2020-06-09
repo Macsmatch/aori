@@ -8,7 +8,7 @@ Comme vous avez certainement pu le remarquer, tout au long de ce dossier nous av
 
 [![Biographie d'Andy Serkis du site L'Iternaute : capture d'écran](Images/andyserkisbio1.PNG)](https://www.linternaute.fr/cinema/biographie/1774578-andy-serkis-biographie-courte-dates-citations/)
 
--TÉLÉ-LOISIRS. « Andy Serkis : biographie, news, photos et videos » [en ligne]. Dans : Télé-Loisirs [en ligne]. [2019]. [Consulté le 8 juin 2020]. Disponible à l’adresse : [https://www.programme-tv.net/biographie/68877-serkis-andy/](https://www.programme-tv.net/biographie/68877-serkis-andy/)
+- TÉLÉ-LOISIRS. « Andy Serkis : biographie, news, photos et videos » [en ligne]. Dans : Télé-Loisirs [en ligne]. [2019]. [Consulté le 8 juin 2020]. Disponible à l’adresse : [https://www.programme-tv.net/biographie/68877-serkis-andy/](https://www.programme-tv.net/biographie/68877-serkis-andy/)
 
 [![Biographie d'Andy Serkis du site Télé-Loisirs](Images/andyserkisbio2.PNG)](https://www.programme-tv.net/biographie/68877-serkis-andy/)
 
