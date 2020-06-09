@@ -4,20 +4,20 @@
 
 ### Comment ça marche ?
 
-- A-RENAUD. Tout savoir sur la motion capture, une technologie en plein boom ! Dans : Réalité-Virtuelle.com [en ligne]. 17 janvier 2016. [Consulté le 5 juin 2020]. Disponible à l’adresse : [https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
+- RENAUD, A. « Tout savoir sur la motion capture, une technologie en plein boom ! » [en ligne]. Dans : *Réalité-Virtuelle.com*. 17 janvier 2016. [Consulté le 5 juin 2020]. Disponible à l’adresse : [https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
 [![Comment faire de la motion capture : capture d'écran](Images/commentfaire1.PNG)](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
 ### Méthodes
 
-- BOYER, Floriane. La motion-capture, capturer le mouvement. Dans : Futura [en ligne]. 16 octobre 2018. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
+- BOYER, Floriane. « La motion-capture, capturer le mouvement ». Dans : *Futura* [en ligne]. 16 octobre 2018. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/ ](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 
 [![Motion capture](Images/commentfaire2.PNG)](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 [![Motion capture](Images/commentfaire3.PNG)](https://www.futura-sciences.com/tech/dossiers/technologie-cinema-animation-techniques-plus-grands-films-2537/page/5/)
 
 ### Etapes de réalisation
 
-- [KACIMI IAMS-MIGUEL, Oriana. Motion Capture et Rendu Expressif. 2014 2013, p. 22-30](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
+- KACIMI IAMS-MIGUEL, Oriana. « Motion capture et rendu expressif : expérimentations esthétiques et animation » [en ligne]. Dans Université Paris. *Mémoire de Master 2 (Master Arts)*. 2013-2014 [Consulté le 7 juin 2020]. p. 22-30. Disponible à l’adresse : [https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf ](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
 1. Studio set-up
 
@@ -47,7 +47,7 @@
 
 ## Les différents types de *Motion Capture*
 
-- A-RENAUD. Tout savoir sur la motion capture, une technologie en plein boom ! Dans : Réalité-Virtuelle.com [en ligne]. 17 janvier 2016. [Consulté le 5 juin 2020]. Disponible à l’adresse : [https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
+- RENAUD, A. « Tout savoir sur la motion capture, une technologie en plein boom ! » [en ligne]. Dans : *Réalité-Virtuelle.com*. 17 janvier 2016. [Consulté le 5 juin 2020]. Disponible à l’adresse : [https://www.realite-virtuelle.com/tout-savoir-motion-capture/](https://www.realite-virtuelle.com/tout-savoir-motion-capture/)
 
 Il existe différents types de capture de mouvement. Elle peut être :
 
