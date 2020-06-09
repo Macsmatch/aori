@@ -80,7 +80,7 @@
 [<img src="Images/alita1.PNG" alt="Commentaire sur le film Alita : Battle Angel : capture d'écran" width="700"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18678836.html)
 
 
-## Jeux vidéos
+## Jeux vidéo
 
 ### Until Dawn
 
