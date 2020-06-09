@@ -1,5 +1,3 @@
-![illustration](Images/marey12.jpg)
-
 # Historique
 
 ## Présentation générale
