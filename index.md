@@ -16,9 +16,9 @@ Ce dossier réunira toutes les ressources qu'il est intéressant de considérer 
 
 Nous allons d'abord commencer par un rapide parcours des différentes définitions de cette technique graphique. Ensuite, nous dresserons son historique en abordant les différentes formes qu'elle a pu prendre au fil du temps. Après cela, nous allons tenter de comprendre un peu plus en profondeur son fonctionnement, et nous nous intéresserons à la façon dont on procède pour faire de la _motion capture_ et aux différents types qu'il existe. Nous aurons également l'occasion de faire un panorama des oeuvres les plus connues ayant eu utilisé la _mocap_. Et pour finir, nous nous attarderons sur l'une des figures les plus emblèmatiques de cette technique : Andy Serkis.
 
-_Je vous souhaite une bonne lecture !_
+_Bonne lecture !_
 
-## Dans ce dossier documentaire, j'aimerais aborder les points suivants :
+## Dans ce dossier documentaire, on aborde les points suivants :
 
 ### [Définitions](definitions.md)
 - Définition du groupe KDCB
