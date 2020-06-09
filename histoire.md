@@ -15,7 +15,7 @@
 ## Evolution à travers le temps
 ### La chronophotographie
 
-- [KACIMI IAMS-MIGUEL, Oriana. Motion Capture et Rendu Expressif. 2014 2013, p. 121](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
+- [KACIMI IAMS-MIGUEL, Oriana. Motion Capture et Rendu Expressif. 2014-2013, p. 10-14](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
 [![Historique de la chronophotographie : capture d'écran 1](Images/chronophotographie1..1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 [![Historique de la chronophotographie : capture d'écran 2](Images/chronophotographie2.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
@@ -23,7 +23,7 @@
 
 ### La rotoscopie
 
-- [Voir référence chronophotographie](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
+- [KACIMI IAMS-MIGUEL, Oriana. Motion Capture et Rendu Expressif. 2014-2013, p. 14-15](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
 [![Historique de la rotoscopie : capture d'écran 1](Images/rotoscopie1.1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 [![Historique de la rotoscopie : capture d'écran 2](Images/rotoscopie2.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
