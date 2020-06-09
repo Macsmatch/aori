@@ -15,7 +15,7 @@ La technologie que j'ai choisie est la _Motion Capture_. Cette technologie, que 
 
 Ce dossier réunira toutes les ressources qu'il est intéressant de considérer pour en savoir plus sur cette technologie. 
 
-Nous allons commencer par un rapide parcours des différentes définitions de cette technique graphique. Ensuite, nous dresserons son historique, en abordant les différentes formes qu'elle a pu prendre au fil du temps. Après cela, nous allons tenter de comprendre un peu plus en profondeur son fonctionnement, et nous nous intéresserons à la façon dont on procède pour faire de la _Motion Capture_, aux différents types qu'il existe et à l'équipement nécessaire. En outre, nous aurons l'occasion de faire un panorama des oeuvres les plus connues ayant eu utilisé la _mocap_. Et pour finir, nous ne pouvons pas parler de cette technologie si particulière sans parler de l'un de ses plus grands protagonistes : _Andy Serkis_, car, en effet, 
+Nous allons commencer par un rapide parcours des différentes définitions de cette technique graphique. Ensuite, nous dresserons son historique, en abordant les différentes formes qu'elle a pu prendre au fil du temps. Après cela, nous allons tenter de comprendre un peu plus en profondeur son fonctionnement, et nous nous intéresserons à la façon dont on procède pour faire de la _Motion Capture_ et aux différents types qu'il existe. Nous aurons également l'occasion de faire un panorama des oeuvres les plus connues ayant eu utilisé la _mocap_. Et pour finir, nous nous attarderons sur l'une des figures les plus emblèmatiques de cette technique : Andy Serkis.
 
 ## Dans ce dossier documentaire, j'aimerais aborder les points suivants :
 
@@ -51,7 +51,7 @@ Nous allons commencer par un rapide parcours des différentes définitions de ce
 #### Films 
 #### Jeux vidéos
 
-### [Andy Serkis : l'égérie de la *Motion Capture*](andyserkis.md)
+### [Andy Serkis : l'égérie de la Motion Capture](andyserkis.md)
 #### Qui est Andy Serkis ?
 #### Quelle est son importance dans le développement de la Motion Capture ?
 #### Quelle est son point de vue sur la Motion Capture ?
