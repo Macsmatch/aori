@@ -4,7 +4,7 @@
 
 ### Le Pôle express (2004)
 
-- The Polar Express - 10 Behind The Scenes Facts [en ligne]. 14 décembre 2018. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=1mN4VAwhrk4](https://www.youtube.com/watch?v=1mN4VAwhrk4)
+- FUN FACT FILMS. « The Polar express - 10 behind the scenes facts » [en ligne]. Dans Google. *Youtube* : publié le 14 décembre 2018 [Consulté le 7 juin 2020]. 3 min 12 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=1mN4VAwhrk4](https://www.youtube.com/watch?v=1mN4VAwhrk4)
 
 [<img src="Images/capturevideo1.PNG" alt="Vidéo sur la réalisation du film le Pôle express" width="600"/>](https://www.youtube.com/watch?v=1mN4VAwhrk4)
 
@@ -14,7 +14,7 @@
 
 ### Les Aventures de Tintin : Le Secret de La Licorne (2011)
 
-- Making-off «Tintin», Nick Frost and Simon Pegg [en ligne]. 17 décembre 2011. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=MfOV25rkHCI](https://www.youtube.com/watch?v=MfOV25rkHCI)
+- STAWBERRYCORPSE. « Making-off «Tintin», Nick Frost and Simon Pegg » [en ligne]. Dans Google. *Youtube* : publié 17 décembre 2011. [Consulté le 7 juin 2020]. 4 min 44 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=MfOV25rkHCI](https://www.youtube.com/watch?v=MfOV25rkHCI)
 
 [<img src="Images/capturevideo2.PNG" alt="Vidéo sur la réalisation du film Les Aventures de Tintin : Le Secret de La Licorne" width="600"/>](https://www.youtube.com/watch?v=MfOV25rkHCI)
 
@@ -27,7 +27,7 @@
 
 ### King Kong (2005)
 
-- Bringing Kong to Life Part 1 - Motion Capture.mov [en ligne]. 30 avril 2010. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=4iGQvER6Tns&t](https://www.youtube.com/watch?v=4iGQvER6Tns&t)
+- ADAM, Mohammad. « Bringing Kong to life part 1 - Motion Capture.mov » [en ligne]. Dans Google. *Youtube* : publié le 30 avril 2010. [Consulté le 7 juin 2020]. 4 min 7 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=4iGQvER6Tns&t](https://www.youtube.com/watch?v=4iGQvER6Tns&t)
 
 [<img src="Images/capturevideo4..PNG" alt="Vidéo sur la réalisation du film King Kong" width="600"/>](https://www.youtube.com/watch?v=4iGQvER6Tns&t)
 
@@ -37,7 +37,7 @@
 
 ### Avatar (2009)
 
-- BEHIND THE SCENE - Avatar The Movie (Part 3) [en ligne]. 17 janvier 2010. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=ClXxZyf1EnY](https://www.youtube.com/watch?v=ClXxZyf1EnY)
+- THECIVICR. « BEHIND THE SCENE - Avatar the movie (part 3) » [en ligne]. Dans Google. *Youtube* : publié le 17 janvier 2010. [Consulté le 7 juin 2020]. 5 min 22 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=ClXxZyf1EnY](https://www.youtube.com/watch?v=ClXxZyf1EnY)
 
 [<img src="Images/capturevideo3.PNG" alt="Vidéo sur la réalisation du film Avatar" width="600"/>](https://www.youtube.com/watch?v=ClXxZyf1EnY)
 
@@ -47,7 +47,7 @@
 
 ### La Planète des singes : Les Origines (2011)
 
-- La Planète des singes : Les origines - Effets speciaux Weta [en ligne]. 20th Century Studios FR, 29 juillet 2011. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=j8WPI3zkxkw](https://www.youtube.com/watch?v=j8WPI3zkxkw)
+- 20TH CENTURY STUDIOS FR. « La Planète des singes : les origines - effets speciaux Weta » [en ligne]. Dans Google. *Youtube* : publié le 29 juillet 2011. [Consulté le 7 juin 2020]. 3 min 29 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=j8WPI3zkxkw](https://www.youtube.com/watch?v=j8WPI3zkxkw)
 
 [<img src="Images/capturevideo6.PNG" alt="Vidéo sur la réalisation du film La Planète des singes" width="600"/>](https://www.youtube.com/watch?v=j8WPI3zkxkw)
 
@@ -57,7 +57,7 @@
 
 ### Le Hobbit : La désolation de Smaug (2013)
 
-- The Hobbit: The Desolation of Smaug / Extended Edition - Smaug MoCap / Warner Bros. Entertainment [en ligne]. 22 octobre 2014. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=W4mL-jqs9cE](https://www.youtube.com/watch?v=W4mL-jqs9cE)
+- WARNER BROS. ENTERTAINMENT. « The Hobbit: the desolation of Smaug / extended edition - Smaug MoCap / Warner Bros. Entertainment » [en ligne]. Dans Google. *Youtube* : publié le 22 octobre 2014. [Consulté le 7 juin 2020]. 1 min 28 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=W4mL-jqs9cE ](https://www.youtube.com/watch?v=W4mL-jqs9cE)
 
 [<img src="Images/capturevideo5.PNG" alt="Vidéo sur la réalisation du film Le Hobbit : La désolation de Smaug" width="600"/>](https://www.youtube.com/watch?v=W4mL-jqs9cE)
 
@@ -67,7 +67,7 @@
 
 ### Alita : Battle Angel (2019)
 
-- ALITA: BATTLE ANGEL / Behind the Scenes with WETA Featurette [en ligne]. 3 février 2019. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=ETs8B2axTcw](https://www.youtube.com/watch?v=ETs8B2axTcw)
+- FILMSNOW MOVIE BLOOPERS & EXTRAS. « ALITA: BATTLE ANGEL / behind the scenes with WETA featurette » [en ligne]. Dans Google. *Youtube* : publié le 3 février 2019. [Consulté le 7 juin 2020]. 3 min 55 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=ETs8B2axTcw](https://www.youtube.com/watch?v=ETs8B2axTcw)
 
 [<img src="Images/capturevideo7.PNG" alt="Vidéo sur la réalisation du film Alita : Battle Angel" width="600"/>](https://www.youtube.com/watch?v=ETs8B2axTcw)
 
@@ -81,7 +81,7 @@
 
 ### The Last of Us (2013)
 
-- The Last of Us - Car Scene Performance Capture [en ligne]. 6 juillet 2013. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=H2fNUeQ6L6s](https://www.youtube.com/watch?v=H2fNUeQ6L6s)
+- NICOLE S. « The Last of Us - car scene performance capture » [en ligne]. Dans Google. *Youtube* : publié le 6 juillet 2013. [Consulté le 7 juin 2020].  33 sec. Disponible à l’adresse : [https://www.youtube.com/watch?v=H2fNUeQ6L6s](https://www.youtube.com/watch?v=H2fNUeQ6L6s)
 
 [<img src="Images/capturevideo9.PNG" alt="Vidéo sur la réalisation du jeu The Last of Us" width="600"/>](https://www.youtube.com/watch?v=H2fNUeQ6L6s)
 
@@ -91,7 +91,7 @@
 
 ### Until Dawn (2015)
 
-- Until DawnTM: From Stage To Screen [en ligne]. 5 septembre 2015. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=CEMFbhCf4-o](https://www.youtube.com/watch?v=CEMFbhCf4-o)
+- SYMPHONICANGEL. « Until DawnTM: from stage to screen » [en ligne]. Dans Google. *Youtube* : publié le 5 septembre 2015. [Consulté le 7 juin 2020]. 2 min 13. Disponible à l’adresse : [https://www.youtube.com/watch?v=CEMFbhCf4-o](https://www.youtube.com/watch?v=CEMFbhCf4-o)
 
 [<img src="Images/capturevideo8.PNG" alt="Vidéo sur la réalisation du jeu Until Dawn" width="600"/>](https://www.youtube.com/watch?v=CEMFbhCf4-o)
 
