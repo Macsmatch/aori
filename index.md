@@ -5,11 +5,6 @@
 _NICULESCU, Armand. « The making of Avatar - some juicy details » [en ligne]. Dans : *Media Division*. 2010. [Consulté le 9 juin 2020]. Disponible à l’adresse : [https://www.media-division.com/the-making-of-avatar-some-juicy-details/](https://www.media-division.com/the-making-of-avatar-some-juicy-details/)_
 
 
-*Dernière mise à jour* : **9 juin 2020**
-
-*Auteur* : **Camille Coumans**
-
-
 ## Bienvenue sur mon site !
 
 Dans le cadre de mes études de bibliothécaire-documentaliste, je suis amenée à réaliser un dossier ainsi qu'une synthèse documentaires sur une technologie moderne.
@@ -70,4 +65,7 @@ _Je vous souhaite une bonne lecture !_
 #### Quelle est son importance dans le développement de la motion capture ?
 #### Quelle est son point de vue sur la motion capture ?
 
+*Dernière mise à jour* : **9 juin 2020**
+
+*Auteur* : **Camille Coumans**
 
