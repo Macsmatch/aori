@@ -4,6 +4,8 @@
 [<img src="Images/arton50811.jpg" alt="Gros plan sur Neytiri, héroïne du film Avatar" width="1100"/>](https://www.media-division.com/the-making-of-avatar-some-juicy-details/)
 _NICULESCU, Armand. « The making of Avatar - some juicy details » [en ligne]. Dans : *Media Division*. 2010. [Consulté le 9 juin 2020]. Disponible à l’adresse : [https://www.media-division.com/the-making-of-avatar-some-juicy-details/](https://www.media-division.com/the-making-of-avatar-some-juicy-details/)_
 
+**Camille Coumans** | **9 juin 2020**
+
 
 ## Bienvenue sur mon site !
 
@@ -64,8 +66,4 @@ _Je vous souhaite une bonne lecture !_
 #### Qui est Andy Serkis ?
 #### Quelle est son importance dans le développement de la motion capture ?
 #### Quelle est son point de vue sur la motion capture ?
-
-*Dernière mise à jour* : **9 juin 2020**
-
-*Auteur* : **Camille Coumans**
 
