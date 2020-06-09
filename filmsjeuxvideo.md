@@ -46,9 +46,9 @@
 
 [<img src="Images/kingkongmocap.jpg" alt="Image de l'acteur Andy Serkis vs image du film King Kong : motion capture]" width="800"/>](https://www.slashfilm.com/the-10-best-motion-capture-characters/3/)
 
-- Bringing Kong to Life Part 1 - Motion Capture.mov [en ligne]. 30 avril 2010. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=4iGQvER6Tns&t=162s](https://www.youtube.com/watch?v=4iGQvER6Tns&t=162s)
+- Bringing Kong to Life Part 1 - Motion Capture.mov [en ligne]. 30 avril 2010. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=4iGQvER6Tns&t](https://www.youtube.com/watch?v=4iGQvER6Tns&t)
 
-[<img src="Images/capturevideo4.PNG" alt="Vidéo sur la réalisation du film King Kong" width="500"/>](https://www.youtube.com/watch?v=4iGQvER6Tns&t=162s)
+[<img src="Images/capturevideo4..PNG" alt="Vidéo sur la réalisation du film King Kong" width="500"/>](https://www.youtube.com/watch?v=4iGQvER6Tns&t)
 
 - IMBERT, Thomas. « King Kong » (2005): Edouard, Gollum, Chappie... : 16 personnages en motion capture. Dans : AlloCiné [en ligne]. 9 avril 2015. [Consulté le 7 juin 2020]. Disponible à l’adresse : [http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8)
 
