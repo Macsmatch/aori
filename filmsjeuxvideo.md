@@ -6,8 +6,6 @@
 
 ### Le Pôle express
 
-[<img src="Images/f7a2a4_0eb58c93760e4eaa9a50bd8510767a51.webp" alt="Tom Hanks, Le Pôle express : motion capture" width="950"/>](https://desmondhume.wixsite.com/goodcinema/tom-hanks?lightbox=i6lpn)
-
 - The Polar Express - 10 Behind The Scenes Facts [en ligne]. 14 décembre 2018. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=1mN4VAwhrk4](https://www.youtube.com/watch?v=1mN4VAwhrk4)
 
 [<img src="Images/capturevideo1.PNG" alt="Vidéo sur la réalisation du film le Pôle express" width="600"/>](https://www.youtube.com/watch?v=1mN4VAwhrk4)
@@ -17,8 +15,6 @@
 [<img src="Images/polexpress.PNG" alt="Commentaire sur le film Le Pôle express : capture d'écran" width="700"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=7)
 
 ### Les Aventures de Tintin : Le Secret de La Licorne
-
-[<img src="Images/tintin.jpg" alt="Les Aventures de Tintin : Le Secret de La Licorne : image du film où l'on peut voir Tintin et le Capitaine Haddock" width="950"/>](https://ici.radio-canada.ca/nouvelle/1146050/duo-peter-jackson-steven-spielberg-prepare-suite-aventures-tintin-cinema-film)
 
 - Making-off «Tintin», Nick Frost and Simon Pegg [en ligne]. 17 décembre 2011. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=MfOV25rkHCI](https://www.youtube.com/watch?v=MfOV25rkHCI)
 
@@ -32,8 +28,6 @@
 
 ### Avatar
 
-[<img src="Images/avatar.jpg" alt="Avatar : motion capture" width="950"/>](https://enjoythew0rld.wordpress.com/2011/08/14/lumiere-sur-les-studios-weta/)
-
 - BEHIND THE SCENE - Avatar The Movie (Part 3) [en ligne]. 17 janvier 2010. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=ClXxZyf1EnY](https://www.youtube.com/watch?v=ClXxZyf1EnY)
 
 [<img src="Images/capturevideo3.PNG" alt="Vidéo sur la réalisation du film Avatar" width="600"/>](https://www.youtube.com/watch?v=ClXxZyf1EnY)
@@ -44,8 +38,6 @@
 
 ### King Kong
 
-[<img src="Images/kingkongmocap.jpg" alt="Image de l'acteur Andy Serkis vs image du film King Kong : motion capture]" width="950"/>](https://www.slashfilm.com/the-10-best-motion-capture-characters/3/)
-
 - Bringing Kong to Life Part 1 - Motion Capture.mov [en ligne]. 30 avril 2010. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=4iGQvER6Tns&t](https://www.youtube.com/watch?v=4iGQvER6Tns&t)
 
 [<img src="Images/capturevideo4..PNG" alt="Vidéo sur la réalisation du film King Kong" width="600"/>](https://www.youtube.com/watch?v=4iGQvER6Tns&t)
@@ -55,9 +47,6 @@
 [<img src="Images/kingkong1.PNG" alt="Commentaire du film King Kong : capture d'écran" width="700"/>](http://www.allocine.fr/article/fichearticle_gen_carticle=18640324.html?page=8)
 
 ### Le Hobbit : La désolation de Smaug
-
-[<img src="Images/smaug.png" alt="Image de Smaug dans le film Le Hobbit : La désolation de Smaug vs photo de l'acteur Benedict Cumberbatch : motion capture" width="950"/>](https://www.quora.com/Did-Peter-Jackson-choose-the-perfect-actor-to-do-the-voice-for-Smaug)
-
 
 - The Hobbit: The Desolation of Smaug | Extended Edition - Smaug MoCap | Warner Bros. Entertainment [en ligne]. 22 octobre 2014. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=W4mL-jqs9cE](https://www.youtube.com/watch?v=W4mL-jqs9cE)
 
@@ -71,8 +60,6 @@
 
 ### La Planète des singes
 
-[<img src="Images/La-Planete-des-singes-Andy-Serkis-l-homme-derriere-le-chimpanze.jpg" alt="Planète des singes : motion capture" width="950"/>](https://www.lejdd.fr/Culture/Cinema/la-planete-des-singes-andy-serkis-lhomme-derriere-le-chimpanze-3400898)
-
 - La Planète des singes : Les origines - Effets speciaux Weta [en ligne]. 20th Century Studios FR, 29 juillet 2011. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=j8WPI3zkxkw](https://www.youtube.com/watch?v=j8WPI3zkxkw)
 
 [<img src="Images/capturevideo6.PNG" alt="Vidéo sur la réalisation du film La Planète des singes" width="600"/>](https://www.youtube.com/watch?v=j8WPI3zkxkw)
@@ -82,9 +69,6 @@
 [<img src="Images/singe1.PNG" alt="Commentaire sur le film La Planète des singes : capture d'écran" width="700"/>](https://www.lefigaro.fr/cinema/2017/07/11/03002-20170711ARTFIG00107--la-planetes-de-singes-la-suprematie-des-effets-speciaux.php)
 
 ### Alita : Battle Angel
-
-[<img src="Images/alita1.jpg" alt="Alita : motion capture" width="950"/>](https://www.themarysue.com/vfx-alita-battle-angel/)
-
 
 - ALITA: BATTLE ANGEL | Behind the Scenes with WETA Featurette [en ligne]. 3 février 2019. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=ETs8B2axTcw](https://www.youtube.com/watch?v=ETs8B2axTcw)
 
@@ -99,8 +83,6 @@
 ## Jeux vidéos
 
 ### Until Dawn
-
-[<img src="Images/fb_efhqfo6.png" alt="Until Down : acteurs vs personnages" width="950"/>](https://hitek.fr/actualite/acteurs-personnages-until-dawn_7000)
 
 - Until DawnTM: From Stage To Screen [en ligne]. 5 septembre 2015. [Consulté le 7 juin 2020]. Disponible à l’adresse : [https://www.youtube.com/watch?v=CEMFbhCf4-o](https://www.youtube.com/watch?v=CEMFbhCf4-o)
 
