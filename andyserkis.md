@@ -6,7 +6,7 @@ Comme vous avez certainement pu le remarquer, tout au long de ce dossier nous av
 
 - LA RÉDACTION. « Andy Serkis : biographie courte, dates, citations » [en ligne]. Dans : *L’Internaute*. 6 février 2019. [Consulté le 8 juin 2020]. Disponible à l’adresse : [https://www.linternaute.fr/cinema/biographie/1774578-andy-serkis-biographie-courte-dates-citations/](https://www.linternaute.fr/cinema/biographie/1774578-andy-serkis-biographie-courte-dates-citations/)
 
-[![Biographie d'Andy Serkis du site L'Iternaute : capture d'écran](Images/andyserkisbio1.PNG)](https://www.linternaute.fr/cinema/biographie/1774578-andy-serkis-biographie-courte-dates-citations/)
+[![Biographie d'Andy Serkis du site L'Internaute : capture d'écran](Images/andyserkisbio1.PNG)](https://www.linternaute.fr/cinema/biographie/1774578-andy-serkis-biographie-courte-dates-citations/)
 
 - TÉLÉ-LOISIRS. « Andy Serkis : biographie, news, photos et videos » [en ligne]. Dans : Télé-Loisirs [en ligne]. [2019]. [Consulté le 8 juin 2020]. Disponible à l’adresse : [https://www.programme-tv.net/biographie/68877-serkis-andy/](https://www.programme-tv.net/biographie/68877-serkis-andy/)
 
@@ -30,7 +30,7 @@ Comme vous avez certainement pu le remarquer, tout au long de ce dossier nous av
 
 [![Andy Serkis : interview](Images/andyserkisimportance3.PNG)](https://www.lepoint.fr/cinema/andy-serkis-la-performance-capture-est-un-futur-standard-du-cinema-21-07-2014-1847724_35.php)
 
-## Quelle est son point de vue sur la motion capture ?
+## Quel est son point de vue sur la motion capture ?
 
 - IMBERT, Thomas. « Andy Serkis : rencontre avec le roi de la motion capture » [en ligne]. Dans Google. *AlloCiné* : publié le 16 décembre 2017. [Consulté le 7 juin 2020]. 5 min 28 sec. Disponible à l’adresse : [http://www.allocine.fr/article/fichearticle_gen_carticle=18669532.html](http://www.allocine.fr/article/fichearticle_gen_carticle=18669532.html)
 
