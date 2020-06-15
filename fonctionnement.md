@@ -22,7 +22,7 @@
 
 [![Explication calibration : capture d'écran](Images/calibration1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
-3. Mise en place des markers
+3. Mise en place des *markers*
 
 [![Explication mise en place des markers : capture d'écran](Images/miseenplacemarkers1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
