@@ -12,6 +12,8 @@
 
 - KACIMI IAMS-MIGUEL, Oriana. « Motion capture et rendu expressif : expérimentations esthétiques et animation » [en ligne]. Dans Université Paris. *Mémoire de Master 2 (Master Arts)*. 2013-2014 [Consulté le 7 juin 2020]. p. 22-30. Disponible à l’adresse : [https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf ](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
 
+On peut résumer la réalisation de la motion capture en 5 étapes :
+
 - Studio set-up
 
 [![Explication set-up : capture d'écran 1](Images/setup1.PNG)](https://www.ati-paris8.fr/src/memoires/2014/Kacimi%20Iams-Miguel%20Oriana%20-%20Motion%20Capture%20et%20Rendu%20Expressif%20-%20Exp%C3%A9rimentations%20esth%C3%A9tiques%20et%20animation.pdf)
