@@ -40,4 +40,4 @@
 
 - PAUME, Florian. « Performance Capture : entre réalité et virtuel » [en ligne]. Dans : *Retour vers le Cinéma*. 5 septembre 2015. [Consulté le 8 juin 2020]. Disponible à l’adresse : [https://www.retourverslecinema.com/performance-capture-entre-realite-et-virtuel/ ](https://www.retourverslecinema.com/performance-capture-entre-realite-et-virtuel/)
 
-[![Explication de la perfomance capture : capture d'écran](Images/performancecapture1.PNG)](https://www.retourverslecinema.com/performance-capture-entre-realite-et-virtuel/)
+[![Explication de la performance capture : capture d'écran](Images/performancecapture1.PNG)](https://www.retourverslecinema.com/performance-capture-entre-realite-et-virtuel/)
