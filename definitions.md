@@ -19,9 +19,9 @@ LAROUSSE. « Définitions : motion capture » [en ligne]. Dans : *Dictionnai
 
 [![Définition du Larousse : capture d'écran](Images/def22.PNG)](https://www.larousse.fr/dictionnaires/francais/motion_capture/10910885)
 
-- Définition de l'office québécois de la langue française
+- Définition de l'Office québécois de la langue française
 
 OFFICE QUÉBÉCOIS DE LA LANGUE FRANÇAISE. « Capture de mouvement » [en ligne]. Dans : *Office québécois de la langue française*. 2014. [Consulté le 5 juin 2020]. Disponible à l’adresse : [http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=8383124](http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=8383124)
 
-[![Définition de l'office québécois de la langue française : capture d'écran](Images/def11.PNG)](http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=8383124)
+[![Définition de l'Office québécois de la langue française : capture d'écran](Images/def11.PNG)](http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=8383124)
 
