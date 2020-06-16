@@ -65,4 +65,4 @@ _Bonne lecture !_
 ### [Andy Serkis : l'égérie de la Motion Capture](andyserkis.md)
 #### Qui est Andy Serkis ?
 #### Quelle est son importance dans le développement de la motion capture ?
-#### Quelle est son point de vue sur la motion capture ?
+#### Quel est son point de vue sur la motion capture ?
